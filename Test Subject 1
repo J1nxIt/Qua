@@ -1,0 +1,20 @@
+#include <stdio.h > /* Einai vivliothiki poy kalei diafores synartiseis porkeimenou na mporoume na tis xrhsimopoihsoume sto kwdika mas , "afairesh" */
+
+int main ()
+{
+	
+	
+	
+	
+	
+	char name [] = "Panagiotis Papachatzakis Emboliasmenos:Nai Breed:Different ";
+	printf("hello, World\n");
+	printf("hello,World %s\n",name);
+	return 0;
+	
+	
+	
+	
+	
+	
+}

@@ -1,0 +1,17 @@
+#include <stdio.h > /* Einai vivliothiki poy kalei diafores synartiseis porkeimenou na mporoume na tis xrhsimopoihsoume sto kwdika mas , "afairesh" */
+
+int main()
+	{
+		
+	int a = 5;
+	int b = 6;	
+		a+1;
+		b+2;
+	int c = a+b;
+	printf("SUM:%d",c);
+	
+		
+		
+		
+		
+	}
